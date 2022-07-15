@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notekeeper</string>
+    <string name="reminderbody">Review %1$s</string>
+</resources>
